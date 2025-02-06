@@ -1,5 +1,5 @@
 
-<h1 align="center">Gingerbreads</h1>
+<h1 align="center">Movie Database Project</h1>
 
 # 🎬 DBCinema - Movie Database Project
   DBCinema is a **MySQL-based movie database** designed to store and manage information about movies, actors, and genres. It features a **many-to-many relationship** between movies and actors, as well as movies and genres. The project includes SQL scripts for **database creation, sample data insertion, and complex queries** for data retrieval.
