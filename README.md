@@ -23,6 +23,8 @@
  
   <a href="https://www.microsoft.com/en-ww/microsoft-365/word"><img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" alt="MS Word logo" width=48px /></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="MS PowerPoint logo" width=48px /></a>
+    <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+    <a href="https://git-scm.com/"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" heigh=48px width=48px/></a>
   </p>
   
 # 💼 Documents
@@ -52,4 +54,4 @@ git clone https://github.com/NRRuseva21/Project-2025.git
 * **Ina Dimitrova**  
 * **Natalia Georgieva** 
 * **Nikoleta Ruseva**  
-* **Lumbomir Dragnev**  
+* **Lyubomir Dragnev**  
